@@ -1,1 +1,3 @@
 # workAsItis
+hello friends,
+I am learning git hub enjoy....
